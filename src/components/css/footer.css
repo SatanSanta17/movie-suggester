@@ -1,0 +1,16 @@
+.footer-navigator {
+  display: flex !important;
+  flex-direction: row;
+  justify-content: space-evenly !important;
+  height: 60px !important;
+  width: 100%;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  background-color: #2d313a !important;
+  z-index: 100;
+  color: white;
+}
+.Link {
+  color: white !important;
+}
